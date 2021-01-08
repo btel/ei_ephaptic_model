@@ -1,6 +1,6 @@
 # Modelling ephaptic interactions
 
-Code for the model presented in the paper Rebollo et al. 2018.
+Code for the model presented in the paper Rebollo et al. 2021.
 
 ## Installation
 
